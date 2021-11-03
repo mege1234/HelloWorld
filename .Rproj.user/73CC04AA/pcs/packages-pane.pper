@@ -1,0 +1,7 @@
+{
+    "installOptions": {
+        "installFromRepository": true,
+        "libraryPath": "C:/Users/md92301/R/win-library/3.6",
+        "installDependencies": true
+    }
+}
